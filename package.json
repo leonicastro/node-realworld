@@ -1,0 +1,15 @@
+{
+  "name": "node-real-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leonicastro/node-real-world.git",
+  "author": "Yuri Leoni de Castro <leoni.yuri@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ./src/"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}

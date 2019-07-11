@@ -6,7 +6,7 @@
   "author": "Yuri Leoni de Castro <leoni.yuri@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon ./src/"
+    "start": "nodemon bin"
   },
   "dependencies": {
     "express": "^4.17.1",

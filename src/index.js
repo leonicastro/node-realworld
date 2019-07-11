@@ -1,3 +1,5 @@
-const app = require('./app/app');
+const express = require('express');
 
-app.listen(3000);
+const app = express();
+
+module.exports = app;

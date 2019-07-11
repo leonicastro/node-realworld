@@ -1,8 +1,8 @@
 {
-  "name": "node-real-world",
+  "name": "node-realworld",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/leonicastro/node-real-world.git",
+  "repository": "https://github.com/leonicastro/node-realworld.git",
   "author": "Yuri Leoni de Castro <leoni.yuri@gmail.com>",
   "license": "MIT",
   "scripts": {

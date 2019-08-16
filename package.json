@@ -6,14 +6,13 @@
   "author": "Yuri Leoni de Castro <leoni.yuri@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon bin/index.js"
+    "start": "nodemon bin/"
   },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1",
-    "sucrase": "^3.10.1"
+    "nodemon": "^1.19.1"
   }
 }

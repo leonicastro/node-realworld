@@ -1,7 +1,7 @@
-import { Router } from 'express';
-import controller from '../controllers/article.controller.js'
+const express = require('express');
+const router = express.Router();
+const controller = require('../controllers/article.controller.js');
 
-const router = new Router();
 
 router.get('/', controller.get);
 router.get('/:id', controller.getById);

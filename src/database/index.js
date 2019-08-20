@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost:27017/realworld', {
+mongoose.connect('mongodb://localhost/realworld', {
   useNewUrlParser: true
 });
 mongoose.Promise = global.Promise;
